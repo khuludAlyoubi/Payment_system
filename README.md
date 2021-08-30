@@ -2,8 +2,7 @@
 
 The web app link: https://alice-shop.herokuapp.com/
 
-This app is to integrate different types of secure payment options into an E-Commerce Website.
-payment system used: VISA, MasterCard and American Express, Alipay, Apple Pay or Google Pay and Direct Bank Debit
+This web app demonstrates how to integrate different types of secure payment options into an E-Commerce Website. Payments system used: VISA, MasterCard and American Express, Alipay, Apple Pay or Google Pay and Direct Bank Debit. 
 
  Home page of the website
  
